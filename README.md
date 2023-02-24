@@ -1,6 +1,6 @@
 # Do it make toast?
-no
+Absolutely not.
 # To-Do
 - [X] Steal your liver
 - [X] Crappy CSS
-- [X] Make toast function
+- [] Make toast function
