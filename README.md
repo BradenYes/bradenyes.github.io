@@ -3,4 +3,4 @@ Absolutely not.
 # To-Do
 - [X] Steal your liver
 - [X] Crappy CSS
-- [] Make toast function
+- [ ] Make toast function
